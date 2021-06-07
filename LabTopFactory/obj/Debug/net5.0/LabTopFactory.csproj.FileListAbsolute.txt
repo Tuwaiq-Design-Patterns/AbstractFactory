@@ -1,0 +1,16 @@
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.exe
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.deps.json
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.runtimeconfig.json
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.runtimeconfig.dev.json
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.dll
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\ref\LabTopFactory.dll
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\bin\Debug\net5.0\LabTopFactory.pdb
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.AssemblyInfoInputs.cache
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.AssemblyInfo.cs
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.dll
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\ref\LabTopFactory.dll
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.pdb
+C:\Users\a-22_\RiderProjects\LabtopFactory\LabTopFactory\obj\Debug\net5.0\LabTopFactory.genruntimeconfig.cache
