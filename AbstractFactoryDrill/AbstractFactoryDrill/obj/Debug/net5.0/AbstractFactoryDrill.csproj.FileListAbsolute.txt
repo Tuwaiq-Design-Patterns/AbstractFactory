@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.exe
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.deps.json
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.dll
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\ref\AbstractFactoryDrill.dll
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\bin\Debug\net5.0\AbstractFactoryDrill.pdb
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.dll
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\ref\AbstractFactoryDrill.dll
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.pdb
+C:\Users\lenovo1\RiderProjects\AbstractFactoryDrill\AbstractFactoryDrill\obj\Debug\net5.0\AbstractFactoryDrill.genruntimeconfig.cache
