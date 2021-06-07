@@ -1,0 +1,13 @@
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.exe
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.deps.json
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.runtimeconfig.json
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.dll
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\bin\Debug\netcoreapp3.1\abstracFactory.pdb
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.csproj.AssemblyReference.cache
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.dll
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.pdb
+C:\Users\Shaha\source\repos\abstracFactory\abstracFactory\obj\Debug\netcoreapp3.1\abstracFactory.genruntimeconfig.cache
