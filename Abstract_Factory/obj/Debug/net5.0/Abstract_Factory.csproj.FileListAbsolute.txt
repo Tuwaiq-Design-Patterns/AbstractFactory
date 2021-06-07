@@ -1,0 +1,16 @@
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.exe
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.deps.json
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.runtimeconfig.json
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.runtimeconfig.dev.json
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.dll
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\ref\Abstract_Factory.dll
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\bin\Debug\net5.0\Abstract_Factory.pdb
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.csprojAssemblyReference.cache
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.AssemblyInfo.cs
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.dll
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\ref\Abstract_Factory.dll
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.pdb
+C:\Users\Ranee\source\repos\Abstract_Factory\Abstract_Factory\obj\Debug\net5.0\Abstract_Factory.genruntimeconfig.cache
