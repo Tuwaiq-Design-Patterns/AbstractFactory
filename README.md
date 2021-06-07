@@ -1,2 +1,2 @@
 # AbstractFactory
-this repo contains Abstract Factory design pattern implementation using C#
+My Abstract Factory is Brand LV and Cucci
