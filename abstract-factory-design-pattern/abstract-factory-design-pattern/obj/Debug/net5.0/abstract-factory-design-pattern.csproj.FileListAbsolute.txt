@@ -1,0 +1,16 @@
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.exe
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.deps.json
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.runtimeconfig.json
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.runtimeconfig.dev.json
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.dll
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\ref\abstract-factory-design-pattern.dll
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\bin\Debug\net5.0\abstract-factory-design-pattern.pdb
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.csprojAssemblyReference.cache
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.AssemblyInfoInputs.cache
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.AssemblyInfo.cs
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.dll
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\ref\abstract-factory-design-pattern.dll
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.pdb
+C:\Users\hussa\source\repos\abstract-factory-design-pattern\abstract-factory-design-pattern\obj\Debug\net5.0\abstract-factory-design-pattern.genruntimeconfig.cache
