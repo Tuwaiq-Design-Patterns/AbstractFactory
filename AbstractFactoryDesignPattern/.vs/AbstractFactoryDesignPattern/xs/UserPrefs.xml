@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8034DD4E-3D39-479C-A07D-07C246A644F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactoryDesignPattern/Program.cs">
+    <Files>
+      <File FileName="AbstractFactoryDesignPattern/Program.cs" Line="87" Column="12" />
+      <File FileName="AbstractFactoryDesignPattern/main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactoryDesignPattern" expanded="True">
+            <Node name="AbstractFactoryDesignPattern" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactoryDesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
