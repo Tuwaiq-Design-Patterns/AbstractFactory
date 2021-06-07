@@ -51,7 +51,7 @@ namespace AbstractFactory
 
         public string txtBottel()
         {
-            return "Bags made from recycling plastic Bottels!";
+            return "Bottels made from recycling plastic Bottels!";
         }
     }
     public class Bag : BagsFactory
