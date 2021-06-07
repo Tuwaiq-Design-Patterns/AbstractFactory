@@ -1,0 +1,16 @@
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.exe
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\ref\apstract-factory.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\bin\Debug\net5.0\apstract-factory.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\ref\apstract-factory.dll
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\Design pattern\apstract-factory\apstract-factory\obj\Debug\net5.0\apstract-factory.genruntimeconfig.cache
