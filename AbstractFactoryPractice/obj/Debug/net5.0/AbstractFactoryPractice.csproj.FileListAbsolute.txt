@@ -1,0 +1,16 @@
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.exe
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.deps.json
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.runtimeconfig.json
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.runtimeconfig.dev.json
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.dll
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\ref\AbstractFactoryPractice.dll
+C:\Users\96658\source\repos\AbstractFactoryPractice\bin\Debug\net5.0\AbstractFactoryPractice.pdb
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.csprojAssemblyReference.cache
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.AssemblyInfoInputs.cache
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.AssemblyInfo.cs
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.csproj.CoreCompileInputs.cache
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.dll
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\ref\AbstractFactoryPractice.dll
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.pdb
+C:\Users\96658\source\repos\AbstractFactoryPractice\obj\Debug\net5.0\AbstractFactoryPractice.genruntimeconfig.cache
