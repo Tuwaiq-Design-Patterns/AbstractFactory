@@ -1,0 +1,16 @@
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\repos\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\repos\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
