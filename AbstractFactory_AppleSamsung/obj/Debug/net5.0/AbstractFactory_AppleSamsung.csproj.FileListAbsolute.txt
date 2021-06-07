@@ -1,0 +1,15 @@
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/AbstractFactory_AppleSamsung.deps.json
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/AbstractFactory_AppleSamsung.runtimeconfig.json
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/AbstractFactory_AppleSamsung.runtimeconfig.dev.json
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/AbstractFactory_AppleSamsung.dll
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/ref/AbstractFactory_AppleSamsung.dll
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/bin/Debug/net5.0/AbstractFactory_AppleSamsung.pdb
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.csprojAssemblyReference.cache
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.AssemblyInfoInputs.cache
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.AssemblyInfo.cs
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.dll
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/ref/AbstractFactory_AppleSamsung.dll
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.pdb
+/Users/afra/Projects/AbstractFactory_AppleSamsung/AbstractFactory_AppleSamsung/obj/Debug/net5.0/AbstractFactory_AppleSamsung.genruntimeconfig.cache
