@@ -1,0 +1,16 @@
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.csprojAssemblyReference.cache
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.AssemblyInfoInputs.cache
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.AssemblyInfo.cs
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.csproj.CoreCompileInputs.cache
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.exe
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.deps.json
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.runtimeconfig.json
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.runtimeconfig.dev.json
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.dll
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\ref\AbsractFactory.dll
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\bin\Debug\net5.0\AbsractFactory.pdb
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.dll
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\ref\AbsractFactory.dll
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.pdb
+C:\Users\aashq\source\repos\AbsractFactory\AbsractFactory\obj\Debug\net5.0\AbsractFactory.genruntimeconfig.cache
