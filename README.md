@@ -8,7 +8,7 @@ this repo contains Abstract Factory design pattern implementation using C#
 
   ##  About 
 - Name : Norah Almutairi
-- Team Name : Al aula
+- Team Name : Al-Aula
 - Supervisor Name : Sarah Algahtani 
 
 
