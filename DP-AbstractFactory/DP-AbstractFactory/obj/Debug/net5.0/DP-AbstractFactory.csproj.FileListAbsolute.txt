@@ -1,0 +1,16 @@
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.exe
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.deps.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.runtimeconfig.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.runtimeconfig.dev.json
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\ref\DP-AbstractFactory.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\bin\Debug\net5.0\DP-AbstractFactory.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.AssemblyInfo.cs
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\ref\DP-AbstractFactory.dll
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.pdb
+C:\Users\Yasmin\Documents\.NET\Design Pattern\DP-AbstractFactory\DP-AbstractFactory\obj\Debug\net5.0\DP-AbstractFactory.genruntimeconfig.cache
