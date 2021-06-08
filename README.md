@@ -1,5 +1,8 @@
 # FontsAbstractFactory
-This repo contains Abstract Factory design pattern implementation using C#. Client can request any kind of fonts.
+This repo contains Abstract Factory design pattern implementation using C#. 
+---
+
+Client can request any kind of fonts.
 
 ### Specifications:
 - Ilatic
