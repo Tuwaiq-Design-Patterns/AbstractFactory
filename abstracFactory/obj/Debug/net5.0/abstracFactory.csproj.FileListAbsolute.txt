@@ -1,0 +1,16 @@
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.exe
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.deps.json
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.runtimeconfig.json
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.runtimeconfig.dev.json
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.dll
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\ref\abstracFactory.dll
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\bin\Debug\net5.0\abstracFactory.pdb
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.csproj.AssemblyReference.cache
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.AssemblyInfoInputs.cache
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.AssemblyInfo.cs
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.csproj.CoreCompileInputs.cache
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.dll
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\ref\abstracFactory.dll
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.pdb
+C:\Users\WIN\source\repos\abstracFactory\abstracFactory\obj\Debug\net5.0\abstracFactory.genruntimeconfig.cache
