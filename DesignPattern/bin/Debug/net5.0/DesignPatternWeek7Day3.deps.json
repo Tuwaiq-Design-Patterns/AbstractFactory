@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DesignPatternWeek7Day3/1.0.0": {
+        "runtime": {
+          "DesignPatternWeek7Day3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternWeek7Day3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
