@@ -1,0 +1,15 @@
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csprojAssemblyReference.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache

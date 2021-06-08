@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{18511799-7DBD-4516-BF8F-C308979DE8D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/NissanFactory.cs">
+    <Files>
+      <File FileName="AbstractFactory/Program.cs" Line="17" Column="34" />
+      <File FileName="AbstractFactory/NissanFactory.cs" Line="14" Column="24" />
+      <File FileName="AbstractFactory/ToyotaEconomyCar.cs" Line="7" Column="77" />
+      <File FileName="AbstractFactory/ToyotaFactory.cs" Line="14" Column="10" />
+      <File FileName="AbstractFactory/ToyotaLuxuryCar.cs" Line="7" Column="61" />
+      <File FileName="AbstractFactory/LuxuryCar.cs" Line="5" Column="42" />
+      <File FileName="AbstractFactory/NissanEconomyCar.cs" />
+      <File FileName="AbstractFactory/NissanLuxuryCar.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory" expanded="True">
+            <Node name="AbstractFactory" expanded="True">
+              <Node name="NissanFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
