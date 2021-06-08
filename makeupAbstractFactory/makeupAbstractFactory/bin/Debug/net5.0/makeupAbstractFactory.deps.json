@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "makeupAbstractFactory/1.0.0": {
+        "runtime": {
+          "makeupAbstractFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "makeupAbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

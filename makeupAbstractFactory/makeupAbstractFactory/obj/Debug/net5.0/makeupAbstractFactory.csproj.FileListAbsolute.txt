@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.exe
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.deps.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.runtimeconfig.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\ref\makeupAbstractFactory.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\bin\Debug\net5.0\makeupAbstractFactory.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\ref\makeupAbstractFactory.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\makeupAbstractFactory\makeupAbstractFactory\obj\Debug\net5.0\makeupAbstractFactory.genruntimeconfig.cache
