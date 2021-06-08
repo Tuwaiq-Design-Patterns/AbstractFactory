@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.exe
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.deps.json
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.runtimeconfig.json
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.dll
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\ref\DesignerBrandsFactory.dll
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\bin\Debug\net5.0\DesignerBrandsFactory.pdb
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.AssemblyInfo.cs
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.dll
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\ref\DesignerBrandsFactory.dll
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.pdb
+C:\Users\Reema\source\repos\DesignerBrandsFactory\DesignerBrandsFactory\obj\Debug\net5.0\DesignerBrandsFactory.genruntimeconfig.cache
