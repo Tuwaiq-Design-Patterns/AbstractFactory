@@ -1,0 +1,16 @@
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/home/z/tuwaiq/design_patterns/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.AssemblyReference.cache
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/home/z/tuwaiq/design_patterns/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache
