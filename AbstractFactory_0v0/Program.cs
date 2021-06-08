@@ -27,7 +27,7 @@ namespace AbstractFactory
     }
     public class LandConqueror : IBoss
     {
-        public string getBoss() => "(∩⌣̀_⌣́) <-- AHH, YARE YARE"; // ( ‾᷅⚰‾᷄ )
+        public string getBoss() => "(∩⌣̀_⌣́) <-- AHH, YARE YARE"; 
     }
     public class AquaArmy : IArmy
     {
