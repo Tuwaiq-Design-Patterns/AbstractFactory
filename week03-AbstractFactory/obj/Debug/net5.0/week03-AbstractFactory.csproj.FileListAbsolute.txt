@@ -1,0 +1,15 @@
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/week03-AbstractFactory.deps.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/week03-AbstractFactory.runtimeconfig.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/week03-AbstractFactory.runtimeconfig.dev.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/week03-AbstractFactory.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/ref/week03-AbstractFactory.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/bin/Debug/net5.0/week03-AbstractFactory.pdb
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.csprojAssemblyReference.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.AssemblyInfoInputs.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.AssemblyInfo.cs
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/ref/week03-AbstractFactory.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.pdb
+/Users/taj/Desktop/Tuwaiq/Design Pattern/AbstractFactory/week03-AbstractFactory/obj/Debug/net5.0/week03-AbstractFactory.genruntimeconfig.cache
