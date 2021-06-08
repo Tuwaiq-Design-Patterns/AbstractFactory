@@ -1,2 +1,5 @@
 # AbstractFactory
-this repo contains Abstract Factory design pattern implementation using C#
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YounesAlturkey/AbstractFactory/main/AbstractFactory/demo.png" alt="demo"/>
+</p>
