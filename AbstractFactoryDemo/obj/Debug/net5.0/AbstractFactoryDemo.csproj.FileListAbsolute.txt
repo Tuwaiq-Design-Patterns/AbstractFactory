@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.exe
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.deps.json
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.dll
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\ref\AbstractFactoryDemo.dll
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\bin\Debug\net5.0\AbstractFactoryDemo.pdb
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.csprojAssemblyReference.cache
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.dll
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\ref\AbstractFactoryDemo.dll
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.pdb
+C:\Users\IBRA\RiderProjects\AbstractFactoryDemo\AbstractFactoryDemo\obj\Debug\net5.0\AbstractFactoryDemo.genruntimeconfig.cache
