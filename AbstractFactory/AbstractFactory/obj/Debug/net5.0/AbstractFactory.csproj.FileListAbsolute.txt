@@ -1,0 +1,15 @@
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.deps.json
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.json
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.runtimeconfig.dev.json
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.dll
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/ref/AbstractFactory.dll
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/bin/Debug/net5.0/AbstractFactory.pdb
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csprojAssemblyReference.cache
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.AssemblyInfo.cs
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.dll
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/ref/AbstractFactory.dll
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.pdb
+/Users/batoolalghamdi/Desktop/AbstractFactory/AbstractFactory/AbstractFactory/obj/Debug/net5.0/AbstractFactory.genruntimeconfig.cache
