@@ -1,0 +1,16 @@
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.exe
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.deps.json
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.runtimeconfig.json
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.runtimeconfig.dev.json
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.dll
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\ref\AbstractFactory-GameCharacters.dll
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\bin\Debug\net5.0\AbstractFactory-GameCharacters.pdb
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.csprojAssemblyReference.cache
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.AssemblyInfoInputs.cache
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.AssemblyInfo.cs
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.csproj.CoreCompileInputs.cache
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.dll
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\ref\AbstractFactory-GameCharacters.dll
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.pdb
+D:\Developing\Rider\projects\AbstractFactory-GameCharacters\AbstractFactory-GameCharacters\obj\Debug\net5.0\AbstractFactory-GameCharacters.genruntimeconfig.cache
